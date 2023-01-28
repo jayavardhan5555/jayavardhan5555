@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jayavardhan5555
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋 I’m Jayavardhan 
 
-<!---
-jayavardhan5555/jayavardhan5555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full Stack Developer | AWS Certified Developer | .Net | React | Cloud & Data Enthusiast
+
+                                                     ** About Me**
+                                                    
+  Jayavardhan is working as a Senior Software Developer with a leading IT firm and has expertise in building scalable applications with .Net Core, AWS, SQL, React. He is an Certified AWS Developer and also he has a deep understanding of building applications using Microsoft Tech Stack and Serverless offerings.
+
