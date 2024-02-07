@@ -1,6 +1,6 @@
 # Hi 👋 I’m Jayavardhan 
 
-## Full Stack Developer | AWS Certified Developer | .Net | React | Cloud & Data Enthusiast
+## Full Stack Developer | AWS Certified Developer | .Net | React | AWS| Cloud & Data Enthusiast
 
                                                      ** About Me**
                                                     
